@@ -25,7 +25,7 @@ public class HW1Prob1 {
 			return b;
 		else if((b < a && a < c) || (a < b && c < a))
 			return a;
-		
+		//this comment was added on github
 		else return c;
 		
 		
